@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mimea</string>
+    <string name="english_name">English Name</string>
+    <string name="latin_name">Latin Name</string>
+    <string name="Description">Description</string>
+    <string name="network_err">Network Error</string>
+</resources>
