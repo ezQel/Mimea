@@ -1,2 +1,2 @@
 # Mimea
-A plant species identification application making use of a tensorflow object detection.
+A plant species identification application making use of tensorflow object detection.
